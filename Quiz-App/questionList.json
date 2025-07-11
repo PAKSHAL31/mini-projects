@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What does HTML stand for?",
+    "answer": [
+      { "text": "Hyper  text Markup Language", "correct": true },
+      { "text": "High  tex Markup Language", "correct": false },
+      { "text": "Hyperlink and  text Markup Language", "correct": false },
+      { "text": "Home Tool Markup Language", "correct": false }
+    ]
+  },
+  {
+    "question": "Which of the following is a JavaScript framework?",
+    "answer": [
+      { "text": "React", "correct": true },
+      { "text": "Laravel", "correct": false },
+      { "text": "Django", "correct": false },
+      { "text": "Flask", "correct": false }
+    ]
+  },
+  {
+    "question": "What does CSS stand for?",
+    "answer": [
+      { "text": "Cascading Style Sheets", "correct": true },
+      { "text": "Creative Style Sheets", "correct": false },
+      { "text": "Computer Style Sheets", "correct": false },
+      { "text": "Colorful Style Sheets", "correct": false }
+    ]
+  },
+  {
+    "question": "Which company developed the Java programming language?",
+    "answer": [
+      { "text": "Sun Microsystems", "correct": true },
+      { "text": "IBM", "correct": false },
+      { "text": "Oracle", "correct": false },
+      { "text": "Microsoft", "correct": false }
+    ]
+  },
+  {
+    "question": "What does API stand for?",
+    "answer": [
+      { "text": "Application Programming Interface", "correct": true },
+      { "text": "Advanced Programming Interface", "correct": false },
+      { "text": "Application Processing Interface", "correct": false },
+      { "text": "Automated Programming Interface", "correct": false }
+    ]
+  },
+  {
+    "question": "Which HTTP method is used to update data?",
+    "answer": [
+      { "text": "PUT", "correct": true },
+      { "text": "GET", "correct": false },
+      { "text": "DELETE", "correct": false },
+      { "text": "PATCH", "correct": false }
+    ]
+  },
+  {
+    "question": "Which data structure uses FIFO order?",
+    "answer": [
+      { "text": "Queue", "correct": true },
+      { "text": "Stack", "correct": false },
+      { "text": "Tree", "correct": false },
+      { "text": "Graph", "correct": false }
+    ]
+  },
+  {
+    "question": "What is the result of 2 + '2' in JavaScript?",
+    "answer": [
+      { "text": "'22'", "correct": true },
+      { "text": "4", "correct": false },
+      { "text": "NaN", "correct": false },
+      { "text": "undefined", "correct": false }
+    ]
+  },
+  {
+    "question": "Which protocol is used to load web pages?",
+    "answer": [
+      { "text": "HTTP", "correct": true },
+      { "text": "FTP", "correct": false },
+      { "text": "SMTP", "correct": false },
+      { "text": "SSH", "correct": false }
+    ]
+  },
+  {
+    "question": "What does JSON stand for?",
+    "answer": [
+      { "text": "JavaScript Object Notation", "correct": true },
+      { "text": "Java Syntax Object Notation", "correct": false },
+      { "text": "Java Standard Output Name", "correct": false },
+      { "text": "JavaScript Output Name", "correct": false }
+    ]
+  }
+]
